@@ -4,7 +4,7 @@ The TestDrive sample application provides you with a near blank template to get 
 ## Run It
 After downloading or cloning the repository:
 
-* Replace `<your-app-key>` and `<your-app-secret>` (lines 23–24 in `index.html`) with your applications credentials.
+* Replace `App Key` and `App Secret` (`index.html`) with your applications credentials.
 * Start a web server:
 ```bash
 python -m SimpleHTTPServer 8000
