@@ -179,7 +179,7 @@
 
 Summary:
 
-   * kinvey-1.1.0 [Apache-2.0] - used for data persistence.
+   * kinvey-1.1 [Apache-2.0] - used for data persistence.
 
 SECTION 1: BSD-STYLE, MIT-STYLE, OR SIMILAR STYLE LICENSES
    >>> kinvey
